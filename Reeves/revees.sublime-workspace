@@ -1,0 +1,462 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"tr",
+				"transform\tproperty"
+			],
+			[
+				"margin",
+				"margin-left\tproperty"
+			],
+			[
+				"ma",
+				"margin-top\tproperty"
+			],
+			[
+				"lo",
+				"logo"
+			],
+			[
+				"font",
+				"font-weight\tproperty"
+			],
+			[
+				"a",
+				"auto"
+			],
+			[
+				"col",
+				"color\tproperty"
+			],
+			[
+				"l",
+				"link\tTag"
+			],
+			[
+				"te",
+				"text-decoration\tproperty"
+			],
+			[
+				"fo",
+				"font-size\tproperty"
+			],
+			[
+				"ba",
+				"background-color\tproperty"
+			],
+			[
+				"u",
+				"url()\tbackground"
+			],
+			[
+				"li",
+				"link\tTag"
+			],
+			[
+				"h",
+				"h1\tTag"
+			],
+			[
+				"me",
+				"meta\tTag"
+			],
+			[
+				"s",
+				"script\tTag"
+			],
+			[
+				"mar",
+				"margin-top"
+			],
+			[
+				"tex",
+				"text-align"
+			],
+			[
+				"pa",
+				"padding-bottom"
+			],
+			[
+				"e",
+				"Email"
+			],
+			[
+				"text",
+				"text"
+			],
+			[
+				"in",
+				"input\tTag"
+			],
+			[
+				"t",
+				"type\tAttr"
+			],
+			[
+				"p",
+				"placeholder\tAttr"
+			],
+			[
+				"box",
+				"box"
+			],
+			[
+				"margi",
+				"margin-right"
+			],
+			[
+				"pad",
+				"padding"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"r",
+				"right"
+			],
+			[
+				"im",
+				"images"
+			],
+			[
+				"an",
+				"animation-name"
+			],
+			[
+				"bac",
+				"background-color"
+			],
+			[
+				"backgr",
+				"background-color"
+			],
+			[
+				"list",
+				"list-style-type"
+			],
+			[
+				"d",
+				"display"
+			],
+			[
+				"c",
+				"cursor"
+			],
+			[
+				"wi",
+				"width"
+			],
+			[
+				"st",
+				"style\tTag"
+			],
+			[
+				"word",
+				"word-spacing"
+			],
+			[
+				"di",
+				"div\tTag"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/C/Users/bravian barare/Desktop/project files/braliax technologies/index2.html",
+			"settings":
+			{
+				"buffer_size": 1296,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/Users/bravian barare/Desktop/project files/braliax technologies/assets/stylesheets/styles.css",
+			"settings":
+			{
+				"buffer_size": 1357,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"contents": "body{\n\tmargin: 0;\n\tpadding: 0;\n}\n.slider{\n\twidth: 800px;\n\theight: 400px;\n\tbackground: url(software dev.jpg);\n\tmargin: 100px auto;\n\tanimation: slide 20s infinite;\n}\n.keyframes{\n\t20%{\n\t\tbackground: url(graphic design.jpg);\n\t}\n\t40%{\n\t\tbackground: url(graphic design1,jpg);\n\t}\n\t60%{\n\t\tbackground: url(webdev1.png);\n\t}\n\t80%{\n\t\tbackground: url(webdev2.png);\n\t}\n\t100%{\n\t\tbackground: url(web-development.jpg);\n\t}\n\n}\nul{\n\tmargin: 0px;\n\tpadding: 0px;\n\tlist-style: none;\n}\nul li{\n\tfloat: left;\n\twidth: 200px;\n\theight: 40px;\n\tbackground-color: black;\n\topacity: .8;\n\tline-height: 40px;\n\ttext-align: center;\n\tfont-size: 20px;\n}\nul li a{\n\ttext-decoration: none;\n\tcolor: white;\n\tdisplay: block;\n}ul li a:hover{\n\tbackground-color: #3396FF    ;\n\ttransition:3s;\n}\nul li ul li{\n\tdisplay: none;\n}\nul li:hover ul li{\n\tdisplay: block;\n}",
+			"settings":
+			{
+				"buffer_size": 813,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/bravian barare/Desktop/project files/braliax technologies/assets/stylesheets/styles.css",
+		"/C/Users/bravian barare/Desktop/project files/Reeves/home.html",
+		"/C/Users/bravian barare/Desktop/project files/braliax technologies/assets/stylesheets/lumen.css",
+		"/C/Users/bravian barare/Desktop/project files/Reeves/styles.css.css",
+		"/C/Users/bravian barare/Desktop/project files/meru county/index.html",
+		"/C/Users/bravian barare/Desktop/project files/Reeves/reeves.html",
+		"/C/Users/bravian barare/Desktop/project files/index.css",
+		"/C/Users/bravian barare/Desktop/project files/index.html",
+		"/C/Users/bravian barare/Desktop/project files/braliax Technologies/assets/stylesheets/styles.css",
+		"/C/Users/bravian barare/Desktop/project files/meru county/index.css",
+		"/C/Users/bravian barare/Desktop/project files/braliax Technologies/index.html",
+		"/C/Users/bravian barare/Desktop/project files/mike/coffee/log_in.html",
+		"/C/Users/bravian barare/Desktop/NOTES/assignments/practice1.html",
+		"/C/Users/bravian barare/Desktop/project files/meru county/assets/stylesheets/styles.css",
+		"/C/Program Files/Sublime Text 3/sublime_text.exe",
+		"/C/Users/bravian barare/Desktop/project files/revees/head/head.html",
+		"/C/Users/bravian barare/Desktop/project files/reeves.html",
+		"/C/Users/bravian barare/Desktop/project files/make-website/bayside/part4/styles/responsive.css"
+	],
+	"find":
+	{
+		"height": 27.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"200px",
+			"font",
+			"10",
+			"nter",
+			";\n",
+			"450px",
+			">\n"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/C/Users/bravian barare/Desktop/project files/braliax technologies/index2.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1296,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								633,
+								633
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 158.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/C/Users/bravian barare/Desktop/project files/braliax technologies/assets/stylesheets/styles.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1357,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1313,
+								1313
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 1015.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 813,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								538,
+								538
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 405.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "revees.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
